@@ -3,9 +3,8 @@
 
 This repository holds the Jupyter Notebooks containing our analysis.
 Our manuscript, "The Fecal Microbiome and Metabolome of Pitt Hopkins Syndrome, 
-a Severe Autism Spectrum Disorder" has been conditionally accepted for publication in 
-[_mSystems_](https://journals.asm.org/journal/msystems). Until the publication is
-available online, we reproduce the abstract and importance below.
+a Severe Autism Spectrum Disorder" is published in 
+[_mSystems_](https://journals.asm.org/doi/10.1128/mSystems.01006-21). We have reproduced the abstract below for your convenience. 
 
 **Authors:** Amanda H Dilmore<sup>1,#</sup>, Daniel McDonald<sup>1,#</sup>, 
 Tanya T Nguyen<sup>2,3,#</sup>, James B Adams<sup>4</sup>, 
